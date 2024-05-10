@@ -19,7 +19,10 @@ TradingVolume 100€                 Portfolio und Start Guthaben
 SmoliTrade Upgrade Plan
 
 Basis                  80€                  Kosten einmalig, regelmäßige und kostenfreie updates
+
 Member 1          10€/M              Basis + bessere Strategien und AI-Algos, CloudBots: 10x
+
 Member 2         50€/M              Basis + bessere Strategien und AI-Algos, CloudBots: 50x
+
 Member 3       140€/M              Basis + bessere Strategien und AI-Algos, CloudBots: 100x
 
