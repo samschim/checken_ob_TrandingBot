@@ -1,7 +1,8 @@
 # TradingBot
+#TradingBot #SmoliTrade #Smolit
+
 TradingBot is a Raspberry PI, configed with SmoliTradeOS and many more greate open source trading tools
 
-#TradingBot #SmoliTrade #Smolit
 # Das Projekt
 Der TradingBot besteht im wesentlichen aus drei TradingBot Software Komponenten, sowie den Hardware Komponenten.
 Der Bot muss nur mit dem Wlan verbunden und an den Strom angeschlossen werden.
