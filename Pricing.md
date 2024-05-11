@@ -18,7 +18,7 @@ Freqtrade           free
 OctoBot              free/14€/41€ pro Monat
 SmoliTrade        80€                 einmalig für Basis Paket
 
-100€                 Portfolio an Meme Coins als Start Guthaben
+100€                 Portfolio an Meme Coins als Start Guthaben + ein Crew Member NFT
 
 SmoliTrade Upgrade Plan
 
