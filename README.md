@@ -1,7 +1,8 @@
 # TradingBot
 #TradingBot #SmoliTrade #Smolit
 ___
-
+https://github.com/SamSchim/TradingBot/blob/main/%23%20TradingBot_PRE-SALE.md
+___
 
 
 TradingBot is a Raspberry PI, configed with SmoliTradeOS and many more greate open source trading tools
