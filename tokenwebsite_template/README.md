@@ -8,27 +8,27 @@ Voraussetzungen:
 
 Schritte:
 
-    Aktualisieren Sie Ihr System
-    Öffnen Sie das Terminal und führen Sie die folgenden Befehle aus, um Ihr System zu aktualisieren:
+Aktualisieren Sie Ihr System
+Öffnen Sie das Terminal und führen Sie die folgenden Befehle aus, um Ihr System zu aktualisieren:
 
     bash
 
-sudo apt update
-sudo apt upgrade -y
+    sudo apt update
+    sudo apt upgrade -y
 
 Installieren Sie einen Webserver (Nginx)
 Installieren Sie Nginx, der als Webserver für Ihre Website dient:
 
-bash
-
-sudo apt install nginx -y
+    bash
+    
+    sudo apt install nginx -y
 
 Installieren Sie PHP (optional)
 Wenn Ihre Website PHP benötigt:
-
-bash
-
-sudo apt install php-fpm -y
+    
+    bash
+    
+    sudo apt install php-fpm -y
 
 Konfigurieren Sie Ihren Webserver
 Konfigurieren Sie Nginx, um auf Ihre Website zuzugreifen. Erstellen Sie eine neue Konfigurationsdatei:
