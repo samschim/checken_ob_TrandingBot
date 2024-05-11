@@ -1,7 +1,7 @@
 # Road Map
 
 ## 1. Ethappen Ziele:
-- [-] Octobot mit User Portfolio und Strategie Empfehlung konfiguriert
+- [ ] Octobot mit User Portfolio und Strategie Empfehlung konfiguriert
 - [ ] Freqtrade trading Bot mit User Portfolio und Strategie Empfehlung konfiguriert
 - [ ] Meme Coin Website online
 - [ ] SmoliTrade mit Meme Coin Portfolio konfiguriert
