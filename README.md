@@ -29,7 +29,7 @@ OctoBot zeichnet sich durch die einfachheit und Benutzerfreundlichkeit aus. Alle
 
 ### SmolitTrade
 SmolitTrade ist eine von mir entwickeltes open source Framework. 
-Es umfasst verschiedene kleine Software Tools zur Automatisierung und Integration von Freqtrade und OctoBot in das Framework, einen weiteren Bot der FreqTrade und OctoBot administriert sowie ein NL-Netzwerk mit verschiedenen ML- und DL-Algorithmen.
+Es umfasst verschiedene praktische Software Tools zur Automatisierung und Integration von Freqtrade und OctoBot in das Framework, einen weiteren Bot der FreqTrade und OctoBot administriert sowie ein NL-Netzwerk mit verschiedenen ML- und DL-Algorithmen.
 
 ## Hardware:
 
