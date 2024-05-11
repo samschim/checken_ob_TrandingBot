@@ -9,7 +9,7 @@ TradingBot is a Raspberry PI, configed with SmoliTradeOS and many more greate op
 
 # Das Projekt
 Der TradingBot besteht im wesentlichen aus drei TradingBot Software Komponenten, sowie den Hardware Komponenten.
-Der Bot muss nur mit dem Wlan verbunden und an den Strom angeschlossen werden.
+Der Bot muss nur mit dem lokalen Wlan verbunden und über das Netzteil mit Strom versorgt werden.
 Der Zugriff erfolgt über eine Web-UI im Browser oder über die App.
 Der Bot ist so konfigiriert, das er regelmäßige Updates automatisch installiert. Bei den Updates handelt es sich um neue Software Updates, neue Strategien und Konfigurationen.
 Alle Infos zu den Updates sowie der Source Code können im Github Repository nachgelesen werden.
