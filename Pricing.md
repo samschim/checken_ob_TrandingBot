@@ -23,7 +23,7 @@ SmoliTrade        80€                 einmalig für Basis Paket
 
 ##### SmoliTrade Upgrade Plan:
 
-Billing Plan |   Price  | 
+Billing Plan |   Price  |           Comment
 
 Basis        |     80€  |            Kosten einmalig, regelmäßige und kostenfreie updates
 
