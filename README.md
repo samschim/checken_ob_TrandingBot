@@ -1,7 +1,7 @@
 # TradingBot
 #TradingBot #SmoliTrade #Smolit
 ___
-https://github.com/SamSchim/TradingBot/blob/main/%23%20TradingBot_PRE-SALE.md
+https://github.com/SamSchim/TradingBot/blob/main/%23%20TradingBot_PRE-SALE.md     <-- PRE-SALE
 ___
 
 
