@@ -15,7 +15,7 @@ Der Zugriff erfolgt über eine Web-UI im Browser oder über die Desktop-/moblile
 
 Der Bot ist so konfigiriert, das er regelmäßige Updates automatisch installiert. Bei den Updates handelt es sich um neue Software Updates, neue Strategien und Konfigurationen.
 
-Ziel des Projektes ist es, ein **all-inclusiv** Environment zu schaffen, das es dem Nutzer ermöglicht komplizierte und Zeit intensive trading Prozesse übersichtlich und schnell zu verwalten. Der TradingBot ist ein einfacher Einstieg in die Crypto Welt und bietet erfahrenen Crypto Usern die Möglichkeit Prozesse zu automatisieren.
+Ziel des Projektes ist es, ein **all-inclusiv** Environment zu schaffen, das es dem Nutzer ermöglicht komplizierte und Zeit intensive trading Prozesse übersichtlich und schnell zu verwalten. Der TradingBot ist ein einfacher Einstieg in die Crypto Welt und bietet erfahrenen Crypto Usern die Möglichkeit Prozesse zu automatisieren. Source Code, Strategien und weitere Infos werden in diesem Repository veröffentlicht.
 
 Alle Infos zu den Updates sowie der Source Code können in dem Projekt Repository nachgelesen werden.
 
