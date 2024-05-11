@@ -1,5 +1,5 @@
 # TradingBot
-#TradingBot #SmoliTrade #Smolit
+#TradingBot #SmoliTrade #Smolit #EcoSphere-Networks 
 ___
 https://github.com/SamSchim/TradingBot/blob/main/%23%20TradingBot_PRE-SALE.md     <-- PRE-SALE TradingBot
 ___
