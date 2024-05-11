@@ -14,7 +14,7 @@ Der Bot muss nur mit dem lokalen Wlan verbunden und über das Netzteil mit Strom
 Der Zugriff erfolgt über eine Web-UI im Browser oder über die Desktop-/moblile App.
 
 Der Bot ist so konfigiriert, das er regelmäßige Updates automatisch installiert. Bei den Updates handelt es sich um neue Software Updates, neue Strategien und Konfigurationen.
-Alle Infos zu den Updates sowie der Source Code können im Github Repository nachgelesen werden.
+Alle Infos zu den Updates sowie der Source Code können in dem Projekt Repository nachgelesen werden.
 
 ## Software:
 
