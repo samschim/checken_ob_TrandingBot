@@ -29,11 +29,14 @@ Der Bot wird auf lokaler Hardware installiert und ist über eine Web-UI, eine An
 Konfigurationen und Strategien werden vorher auf "Code-Ebene", also in einem Editor vorgenommen.
 Freqtrade bietet die möglichkeit, die Konfigurationen von einem ML-Algorithmus vornehmen zu lassen. Das Tool heißt HyperOpt.
 
+MEHR ZU DEM PROJEKT UNTER https://github.com/freqtrade/freqtrade
+
 ### OctoBot
 OctoBot ist ein TradinBot. Das Projekt ist ebenfalls open source, bietet aber zusätzliche paid-services an. Dazu gehören eine Cloud für die Bots und viele weitere interessante möglichkeiten.
 OctoBot zeichnet sich durch die einfachheit und Benutzerfreundlichkeit aus. Alle Funktionen lassen sich direkt über die Web-UI einstellen. Zudem bietet OctoBot die möglichkeit LLMs über API in die Strategien einzubinden.
 (Eine Einschränkung im Vergleich zu Freqtrade sind die Beschränkungen der Web-UI. Die Strategien lassen sich nicht so flexibel programmieren.)-> RECHERCHE OB RICHTIG!
 
+MEHR ZU DEM PROJEKT UNTER https://github.com/Drakkar-Software/OctoBot
 
 ## Hardware:
 
