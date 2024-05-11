@@ -12,13 +12,19 @@ Der Preis ergibt sich wie folgt:
 
 ##### Hardware:
 Raspberry PI     120€
+
 Display 1             30€
+
 Display 2             70€
+
 
 ##### Software:
 Freqtrade           free
+
 OctoBot              free/14€/41€ pro Monat
+
 SmoliTrade        80€                 einmalig für Basis Paket
+
 
 100€                 Portfolio an Meme Coins als Start Guthaben + ein Crew Member NFT
 
