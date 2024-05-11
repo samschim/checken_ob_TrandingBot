@@ -1,5 +1,7 @@
-## Pricing
+# Pricing
 _**Die Preisegestaltung ist experimentell und wird noch angepasst. Sie dient vorläufig lediglich der Visualisierung**_
+
+
 Der TradingBot soll einmalig um die 300€ kosten. 
 
 Zusätzliche Upgrades des OctoBots ist gegen Aufpreis möglich.
