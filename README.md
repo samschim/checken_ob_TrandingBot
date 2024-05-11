@@ -19,8 +19,8 @@ Alle Infos zu den Updates sowie der Source Code können in dem Projekt Repositor
 ## Software:
 
 ### SmolitTrade
-SmolitTrade ist eine von mir entwickeltes open source Framework. 
-Es umfasst verschiedene praktische Software Tools zur Automatisierung und Integration von Freqtrade und OctoBot in das Framework, weitere Bots die unteranderem FreqTrade und OctoBot administrieren, sowie ein NL-Netzwerk mit verschiedenen ML- und DL-Algorithmen. 
+SmolitTrade ist im wesentlichen ein open source Framework. 
+Das Framework besteht aus diversen Trading-, Chart- und Banking- Software Tools. SmoliTrade beinhaltet unter anderem open source trading Bots wie Freqtrade und OctoBot, weitere Bots die unteranderem FreqTrade und OctoBot administrieren, sowie ein NL-Netzwerk mit verschiedenen ML- und DL-Algorithmen. 
 
 Zudem bietet SmoliTrade eine nutzerfreundliche GUI mit der best-practise-workflows automatisert und in wenigen Schritten ausgeführt werden können. Dazu gehört:
 
