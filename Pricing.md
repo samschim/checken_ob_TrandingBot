@@ -1,8 +1,12 @@
 ## Pricing
 
-Der TradingBot soll einmalig um die 300€ kosten. Der Preis ergibt sich wie folgt:
+Der TradingBot soll einmalig um die 300€ kosten. 
+
 Zusätzliche Upgrades des OctoBots ist gegen Aufpreis möglich.
+
 Die erworbene SmoliTrade Lizenz immer gültig. 
+
+Der Preis ergibt sich wie folgt:
 
 Hardware:
 Raspberry PI     120€
