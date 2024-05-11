@@ -25,16 +25,7 @@ Crew Member NTFs
         Die Crew Member NTFs werden nur an die Start Crew des Smolitux Projektes vergeben
         Alle 128 Crew Member NTFs werden mit 20% Gewinn beteiligung bei Coin Launch belohnt
 
-Die NTFs
 
-    Von jedem NTF gibt es eine Kollektion.
-        Eine Kollektion ist ein Skat-Karten-Deck
-            jede Skat Karte ist ein weiterer NTF
-            insgesamt gibt es 128 Karten Kollektion
-                jede der 128 Kollektionen gibt es in einer Stufe von 1-8 und Stufe "sn", also 9
-    Der Wert eines NTF ist durch eine tabellarisches System festgelegt:
-        Es gibt 8 Stufen + sn, je höher die Stufe des NTFs, desto höher der Wert
-        Die Stufen werden durch den Wert des Projektes, also durch den Markt-Wert des Meme-Coins definiert
         Stufe "sn" ist die Werte Stufe für die Spezial NTFs, er ist quasi Stufe 9
 
 
