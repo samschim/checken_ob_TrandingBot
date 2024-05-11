@@ -4,7 +4,7 @@ _**Die Preisegestaltung ist experimentell und wird noch angepasst. Sie dient vor
 
 Der TradingBot soll einmalig um die 300€ kosten. 
 
-Zusätzliche Upgrades des OctoBots ist gegen Aufpreis möglich.
+Zusätzliche Upgrades des OctoBots ist gegen Aufpreis möglich. Dies geschiet über den Betreiber der Software OCtobot.
 
 Die erworbene SmoliTrade Lizenz immer gültig. 
 
