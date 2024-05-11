@@ -42,7 +42,7 @@ Freqtrade bietet die möglichkeit, die Konfigurationen von einem ML-Algorithmus 
 MEHR ZU DEM PROJEKT UNTER https://github.com/freqtrade/freqtrade
 
 ### OctoBot
-OctoBot ist ein TradinBot. Das Projekt ist ebenfalls mit lizensierte GPL-3.0 license open source Software, bietet aber zusätzliche paid-services an. 
+OctoBot ist ein TradingBot. Das Projekt ist ebenfalls mit lizensierte GPL-3.0 license open source Software, bietet aber zusätzliche paid-services an. 
 
 Dazu gehören eine Cloud für die Bots und viele weitere interessante möglichkeiten.
 OctoBot zeichnet sich durch die einfachheit und Benutzerfreundlichkeit aus. Alle Funktionen lassen sich direkt über die Web-UI einstellen. Zudem bietet OctoBot die möglichkeit LLMs über API in die Strategien einzubinden.
