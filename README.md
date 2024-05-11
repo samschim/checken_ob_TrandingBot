@@ -1,11 +1,13 @@
 # TradingBot
-#TradingBot #SmoliTrade #Smolit #EcoSphere-Networks 
+TradingBot is a Raspberry PI, configed with SmoliTradeOS and many more greate open source trading tools
+
+___
+#EcoSphere-Networks #TradingBot #SmoliTrade #Smolit 
 ___
 https://github.com/SamSchim/TradingBot/blob/main/%23%20TradingBot_PRE-SALE.md     <-- PRE-SALE TradingBot
 ___
 
 
-TradingBot is a Raspberry PI, configed with SmoliTradeOS and many more greate open source trading tools
 
 # Das Projekt
 Der TradingBot besteht im wesentlichen aus drei TradingBot Software Komponenten, sowie den Hardware Komponenten.
