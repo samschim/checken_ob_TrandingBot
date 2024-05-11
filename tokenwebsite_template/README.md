@@ -103,9 +103,11 @@ Um die auf dem Raspberry Pi gehostete Website von außerhalb des Heimnetzwerks z
 
     HTTPS verwenden: Es ist sehr empfehlenswert, HTTPS anstelle von HTTP zu verwenden, um die Sicherheit Ihrer Website zu gewährleisten. Dies können Sie durch ein kostenloses Zertifikat von Let's Encrypt        realisieren. Sie können certbot verwenden, ein Tool, das die Einrichtung und Erneuerung von SSL/TLS-Zertifikaten automatisiert:
 
-
+    ```
     sudo apt install certbot python3-certbot-nginx
     sudo certbot --nginx
+    ```
+
 
     Firewall-Einstellungen: Überprüfen Sie die Konfiguration Ihrer Firewall, um unbefugten Zugriff zu verhindern.
     Regelmäßige Updates: Halten Sie Ihr System und Ihre Anwendungen stets auf dem neuesten Stand, um Sicherheitslücken zu vermeiden.
