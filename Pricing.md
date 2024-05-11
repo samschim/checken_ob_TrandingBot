@@ -8,12 +8,12 @@ Die erworbene SmoliTrade Lizenz immer gültig.
 
 Der Preis ergibt sich wie folgt:
 
-Hardware:
+##### Hardware:
 Raspberry PI     120€
 Display 1             30€
 Display 2             70€
 
-Software:
+##### Software:
 Freqtrade           free
 OctoBot              free/14€/41€ pro Monat
 SmoliTrade        80€                 einmalig für Basis Paket
@@ -21,14 +21,15 @@ SmoliTrade        80€                 einmalig für Basis Paket
 100€                 Portfolio an Meme Coins als Start Guthaben + ein Crew Member NFT
 
 
-SmoliTrade Upgrade Plan
+##### SmoliTrade Upgrade Plan:
 
 Billing Plan |   Price  | 
+
 Basis        |     80€  |            Kosten einmalig, regelmäßige und kostenfreie updates
-             |          | 
+
 Member 1     |   10€/M  |            Basis + bessere Strategien und AI-Algos, CloudBots: 10x
-             |          |
+
 Member 2     |   50€/M  |            Basis + bessere Strategien und AI-Algos, CloudBots: 50x
-             |          | 
+
 Member 3     |  140€/M  |            Basis + bessere Strategien und AI-Algos, CloudBots: 100x
 
