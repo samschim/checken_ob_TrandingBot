@@ -21,7 +21,7 @@ Display 2             70€
 ##### Software:
 Freqtrade           free
 
-OctoBot              free/14€/41€ pro Monat
+OctoBot              free/ -> weitere Angaben sind auf der Hompage von OctoBot zu finden
 
 SmoliTrade        80€                 einmalig für Basis Paket
 
