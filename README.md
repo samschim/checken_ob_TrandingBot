@@ -58,8 +58,12 @@ MEHR ZU DEM PROJEKT UNTER https://github.com/Drakkar-Software/OctoBot
 
 ## Hardware:
 
-### Der lokale TradinBot
+### TrandinBot - Local
 Verwendet wird ein Raspberry PI 4 mit 8GB RAM. Der mini PC ist sehr Strom sparend und bietet genügend Leistung für die TrandingBot konfiguration. Zudem ist der Raspi vergleichsweise günstig in der Anschaffung.
 Der Raspi kann auf Wunsch und gegen Aufpreis mit unterschiedlichen Display konfiguriert werden. 
+
+### _**COMMING SOONE**_
+- Der TrandingBot wird mit einem Hardware Wallet ausgestattet. 
+- Es wird ein Haardware Upgrade geben welches die Nutzung von Crypto Kreditkarten ermöglicht
 
 
