@@ -1,23 +1,23 @@
-# TradingBot
-TradingBot is a Raspberry PI, configed with SmoliTradeOS and many more greate open source trading tools
+# TrandingBot
+TrandingBot is a Raspberry PI, configed with SmoliTradeOS and many more greate open source trading tools
 
 ___
-#EcoSphere-Networks #TradingBot #SmoliTrade #Smolit 
+#EcoSphere-Networks #TrandingBot #SmoliTrade #Smolit 
 ___
-https://github.com/SamSchim/TradingBot/blob/main/%23%20TradingBot_PRE-SALE.md     <-- PRE-SALE TradingBot
+https://github.com/SamSchim/TrandingBot/blob/main/%23%20TrandingBot_PRE-SALE.md     <-- PRE-SALE TrandingBot
 ___
 
 
 
 # Das Projekt
-Der TradingBot besteht im wesentlichen aus drei TradingBot Software Komponenten, sowie den Hardware Komponenten.
+Der TrandingBot besteht im wesentlichen aus drei TrandingBot Software Komponenten, sowie den Hardware Komponenten.
 Der Bot muss nur mit dem lokalen Wlan verbunden und über das Netzteil mit Strom versorgt werden.
 
 Der Zugriff erfolgt über eine Web-UI im Browser oder über die Desktop-/moblile App.
 
 Der Bot ist so konfigiriert, das er regelmäßige Updates automatisch installiert. Bei den Updates handelt es sich um neue Software Updates, neue Strategien und Konfigurationen.
 
-Ziel des Projektes ist es, ein **all-inclusiv** Environment zu schaffen, das es dem Nutzer ermöglicht komplizierte und Zeit intensive trading Prozesse übersichtlich und schnell zu verwalten. Der TradingBot ist ein einfacher Einstieg in die Crypto Welt und bietet zudem erfahrenen Crypto Usern die Möglichkeit best-practise Prozesse zu automatisieren. Source Code, Strategien, Updates und weitere Infos werden in diesem Projekt Repository veröffentlicht.
+Ziel des Projektes ist es, ein **all-inclusiv** Environment zu schaffen, das es dem Nutzer ermöglicht komplizierte und Zeit intensive trading Prozesse übersichtlich und schnell zu verwalten. Der TrandingBot ist ein einfacher Einstieg in die Crypto Welt und bietet zudem erfahrenen Crypto Usern die Möglichkeit best-practise Prozesse zu automatisieren. Source Code, Strategien, Updates und weitere Infos werden in diesem Projekt Repository veröffentlicht.
 
 Source Code, Strategien, Updates und weitere Informationen werden in diesem Projekt Repository veröffentlicht.
 
@@ -39,7 +39,7 @@ Zudem bietet SmoliTrade eine nutzerfreundliche GUI mit der best-practise-workflo
 MEHR ZU DEM PROJEKT UNTER https://github.com/SamSchim/SmoliTrade-App und https://github.com/SamSchim/SmoliTradeOS
 
 ### Freqtrade
-Freqtrade ist ein TradingBot in Python geschrieben. Die Software ist open source und mit  GPL-3.0 license  lizensiert. 
+Freqtrade ist ein TrandingBot in Python geschrieben. Die Software ist open source und mit  GPL-3.0 license  lizensiert. 
 
 Die Software ermöglicht dem Nutzer die Freqtrade Bots selbst zu konfigurieren und an eigene Bedürfnisse anzupassen. Die verwendeten Trading Strategien werden in einem Python Script definiert. Zusätzliche Optionen werden in einem Configuration File in Json Format gespeichert.
 Der Bot wird auf lokaler Hardware installiert und ist über eine Web-UI, eine Android App und via Telegram Bot zu bedienen. 
@@ -49,7 +49,7 @@ Freqtrade bietet die möglichkeit, die Konfigurationen von einem ML-Algorithmus 
 MEHR ZU DEM PROJEKT UNTER https://github.com/freqtrade/freqtrade
 
 ### OctoBot
-OctoBot ist ein TradingBot. Das Projekt ist ebenfalls mit lizensierte GPL-3.0 license open source Software, bietet aber zusätzliche paid-services an. 
+OctoBot ist ein TrandingBot. Das Projekt ist ebenfalls mit lizensierte GPL-3.0 license open source Software, bietet aber zusätzliche paid-services an. 
 
 Dazu gehören eine Cloud für die Bots und viele weitere interessante möglichkeiten.
 OctoBot zeichnet sich durch die einfachheit und Benutzerfreundlichkeit aus. Alle Funktionen lassen sich direkt über die Web-UI einstellen. Zudem bietet OctoBot die möglichkeit LLMs über API in die Strategien einzubinden.
@@ -59,7 +59,7 @@ MEHR ZU DEM PROJEKT UNTER https://github.com/Drakkar-Software/OctoBot
 ## Hardware:
 
 ### Der lokale TradinBot
-Verwendet wird ein Raspberry PI 4 mit 8GB RAM. Der mini PC ist sehr Strom sparend und bietet genügend Leistung für die TradingBot konfiguration. Zudem ist der Raspi vergleichsweise günstig in der Anschaffung.
+Verwendet wird ein Raspberry PI 4 mit 8GB RAM. Der mini PC ist sehr Strom sparend und bietet genügend Leistung für die TrandingBot konfiguration. Zudem ist der Raspi vergleichsweise günstig in der Anschaffung.
 Der Raspi kann auf Wunsch und gegen Aufpreis mit unterschiedlichen Display konfiguriert werden. 
 
 
