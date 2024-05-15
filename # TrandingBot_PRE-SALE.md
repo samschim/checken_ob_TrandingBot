@@ -1,4 +1,4 @@
-# TradingBot_PRE-SALE.md
+# TrandingBot_PRE-SALE.md
 
 
 Sonder Meme Coin & NTF Kollektion "Prophet"
@@ -13,10 +13,10 @@ Sonder Meme Coin & NTF Kollektion "Prophet"
 
 ## Der "Prophet" - Crew Member NTFs
 Der Prophet kündigt den Launch eines neuen Smolitux Projektes an. Das heißt, dass eine neue Kollektion von Propheten MemeCoins und NTFs gelauncht werden.
-Zuerst kündigt der Prophet den TradingBot an. Also wird es einen Pre-Sale von TradingBot-Propheten Meme Coins und NTFs geben. 
+Zuerst kündigt der Prophet den TrandingBot an. Also wird es einen Pre-Sale von TrandingBot-Propheten Meme Coins und NTFs geben. 
 - Es gibt nur 128 NTFs
-- Auf jedem TradingBot der im PRE-SALE gekauft wird, ist ein TradingBot-Propheten NTF gespeichert.
-- Die TradingBot-Propheten NTFs können beim Launch des TradinBot-Meme Coins in TradingBot Coins getauscht werden.
+- Auf jedem TrandingBot der im PRE-SALE gekauft wird, ist ein TrandingBot-Propheten NTF gespeichert.
+- Die TrandingBot-Propheten NTFs können beim Launch des TradinBot-Meme Coins in TrandingBot Coins getauscht werden.
 - 
 
 Crew Member NTFs
