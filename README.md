@@ -66,7 +66,7 @@ Verwendet wird ein Raspberry PI 4 mit 8GB RAM. Der mini PC ist sehr Strom sparen
 Der Raspi kann auf Wunsch und gegen Aufpreis mit unterschiedlichen Display konfiguriert werden. 
 
 ### _**Road Map**_
-_**comming soon**_
+_**more comming soon**_
 - Der TrandingBot wird mit einem Hardware Wallet ausgestattet. 
 - Es wird ein Haardware Upgrade geben welches die Nutzung von Crypto Kreditkarten ermöglicht
 
