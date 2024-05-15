@@ -36,7 +36,7 @@ Zudem bietet SmoliTrade eine nutzerfreundliche GUI mit der best-practise-workflo
 - Chart mit Kurs unterschiede der Börsen
 - ... und vieles mehr ...
 
-MEHR ZU DEM PROJEKT UNTER https://github.com/SamSchim/SmoliTradeOS
+MEHR ZU DEM PROJEKT UNTER https://github.com/SamSchim/SmoliTrade-App und https://github.com/SamSchim/SmoliTradeOS
 
 ### Freqtrade
 Freqtrade ist ein TradingBot in Python geschrieben. Die Software ist open source und mit  GPL-3.0 license  lizensiert. 
